@@ -5,70 +5,31 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
-  website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  email: eduardafloris324@gmail.co
+  github: Eduardanikkie1
+  instagram: Eduardasousa1260
 
 languages:
-  - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
-
-interests:
-  - name: Climbing
-    link:
-  - name: Snowboarding
-    link:
-  - name: Cooking
-    link:
-
-summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+  - idioma: Inglês
+    level: Basico
+  - idioma: Portugues
+    level: Nativa 
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - Cursando: Curso Tecnico Subsequente de Informataica   
+    universidade: IFRN - Instituto Federal do Rio Grande do Norte
+    time: 2023 - 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
         - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - : = Organização Pessoal 
+    time: Atualmente 
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
@@ -87,7 +48,6 @@ experiences:
         - Blanditiis praesentium voluptatum deleniti atque corrupti.
         - Maecenas tempus tellus eget.
     technologies:
-      - Angular
       - Python
       - jQuery
       - Webpack
@@ -131,23 +91,6 @@ experiences:
       - Node.js
       - Require.js
       - HTML/SASS
-
-  - role: Web Developer
-    subrole: Intern
-    time: 2011 - 2012
-    company: Amazon
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec. Fusce vulputate eleifend sapien.
-      Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.
-      Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.
-    technologies:
-      - Ruby on Rails
-      - jQuery
-      - HTML/LESS
-      - MongoDB
 
 awards:
   - name: Award Name Lorem
@@ -213,32 +156,17 @@ publications:
 skills:
   - category: Frontend
     tools:
-      - name: Angular
-        level: 98%
-      - name: React
-        level: 98%
       - name: JavaScript
-        level: 98%
-      - name: Node.js
-        level: 95%
-      - name: HTML/CSS/SASS/LESS
-        level: 85%
-  - category: Backend
-    tools:
-      - name: Python/Django
-        level: 95%
-      - name: Ruby/Rails
-        level: 98%
-      - name: PHP
-        level: 87%
-      - name: WordPress/Shopify
-        level: 92%
+        level: 1%
+      - name: HTML
+        level: 20%
+      - name: CSS
+        level: 10%
+      - name: python
+        level: 20%
   - category: others
     tools:
-      - DevOps
-      - Code Review
       - Git
-      - Unit Testing
       - Wireframing
       - Sketch
       - Balsamiq
