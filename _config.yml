@@ -18,7 +18,7 @@ Instagram:
 # End SEO
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: gray # gray blue turquoise green berry re
+ # gray blue turquoise green berry re
 
 # Sass/SCSS
 sass:
