@@ -13,26 +13,17 @@ baseurl: "/Curr-culo2" # change it according to your repository name
 
 Instagram:
   username: eduardasousa1270
-  card: summary
-
-google_site_verification: # Put your google verification tag here
+ # Put your google verification tag here
 
 # End SEO
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: gray # gray blue turquoise green berry red
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme_skin: gray # gray blue turquoise green berry re
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# Build settings
-compress-site: yes
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_styl
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
